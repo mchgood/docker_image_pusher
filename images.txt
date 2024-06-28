@@ -4,3 +4,6 @@ mysql:5.7.22
 bitnami/postgresql:16.3.0
 rabbitmq:3.12.14-management
 nacos/nacos-server:v2.3.2
+
+#支持指定架构
+--platform=linux/arm64 xiaoyaliu/alist
