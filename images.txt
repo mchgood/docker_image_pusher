@@ -1,2 +1,1 @@
 gaibu/sd-pre:1.0.0
-gaibu/sd-second:1.0.0
