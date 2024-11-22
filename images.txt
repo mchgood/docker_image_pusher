@@ -1,5 +1,2 @@
-gaibu/sd-auto:1.0.0
-gaibu/sd-download:1.0.0
-
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+gaibu/sd-pre:1.0.1
+gaibu/sd-second:1.0.1
